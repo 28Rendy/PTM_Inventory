@@ -198,10 +198,10 @@
   const salesChart = new Chart(ctx, {
     type: 'bar',
     data: {
-      labels: @json(range(1, 12)),
+      labels: json(range(1, 12)),
       datasets: [{
         label: 'Penjualan',
-        data: @json($dataGrafik),
+        data: json($dataGrafik),
         backgroundColor: 'rgba(255, 111, 0, 0.6)',
         borderColor: '#ff6f00',
         borderWidth: 1
