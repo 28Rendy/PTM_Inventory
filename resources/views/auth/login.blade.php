@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Login | Sistem Informasi</title>
+    <title>Login | Sistem Inventory PTM</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Google Fonts (optional untuk tampilan elegan) -->
